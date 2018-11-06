@@ -1,3 +1,4 @@
 server:
   port: 6000
 myww: hello
+label: master
